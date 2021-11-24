@@ -1,4 +1,4 @@
-## Piot Kubala
+## Piotr Kubala
 <p align="center">
   <img src="img/piotr_kubala_P1000698_pp.JPG" width="200">
 </p>
