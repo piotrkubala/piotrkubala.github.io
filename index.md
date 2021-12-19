@@ -12,8 +12,8 @@ Celem projektu było stworzenie prostej gry platformowej o grafice inspirowanej 
 
 ### Linki do stron członków naszego zespołu
 
-* (Patryk Knapek)[https://razogarz.github.io/]
-* (Tomasz Makowski)[https://makowskitomasz.github.io/]
-* (Maciej Pawłowski)[https://maciekpawlowski1.github.io/]
-* (Katarzyna Stępień)[https://stepkata.github.io/]
-* (Wojciech Neuman)[https://wojciechneuman.github.io/]
+* [Patryk Knapek](https://razogarz.github.io/)
+* [Tomasz Makowski](https://makowskitomasz.github.io/)
+* [Maciej Pawłowski](https://maciekpawlowski1.github.io/)
+* [Katarzyna Stępień](https://stepkata.github.io/)
+* [Wojciech Neuman](https://wojciechneuman.github.io/)
